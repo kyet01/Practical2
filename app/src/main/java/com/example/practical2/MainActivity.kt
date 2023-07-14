@@ -41,4 +41,4 @@ class MainActivity : AppCompatActivity() {
         doneButton.visibility = View.VISIBLE
         view.visibility = View.GONE
     }
-}
+}//coment
